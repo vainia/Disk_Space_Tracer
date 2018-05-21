@@ -1,0 +1,15 @@
+{
+	"server_name": "rabbit-mq-test",
+	"time": ["2414123123"],
+	"mounts": [{
+			"mount_name": "/home/",
+			"used": [121212],
+			"avail": [13131]
+		},
+		{
+			"mount_name": "/tmp/",
+			"used": [121212],
+			"avail": [13131]
+		},
+	]
+}
